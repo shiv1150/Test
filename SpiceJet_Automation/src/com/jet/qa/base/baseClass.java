@@ -21,6 +21,7 @@ public class baseClass {
 	public void initialization()
 	{
 		///get set go
+		///ready
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\shiv1150\\Downloads\\Compressed\\chromedriver.exe");
 	driver=new ChromeDriver();
 	driver.manage().window().maximize();
